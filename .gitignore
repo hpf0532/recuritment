@@ -140,4 +140,4 @@ cython_debug/
 settings.py
 
 .idea/
-# */migrations/
+*/migrations/
